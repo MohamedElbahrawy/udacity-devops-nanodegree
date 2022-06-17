@@ -7,7 +7,7 @@ CloudFront Endpoint:
 https://d1v52of5lzov33.cloudfront.net <br>
 https://d1v52of5lzov33.cloudfront.net/index.html <br>
 
-***Steps***:
+***Steps***: <br>
 1 - Create S3 Bucket on AWS and upload website files: <br>
 ![1-S3-Bucket](https://user-images.githubusercontent.com/50273322/174295345-e35ae105-4671-4b2f-8bbe-ad10e6a6873d.jpg)
 
