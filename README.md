@@ -1,7 +1,7 @@
 # udacity-devops-nanodegree
-**Deploy Static Website on AWS**
-**Author**: Mohamed Abdellatif Elbahrawy 
-**Udacity DevOps Engineer Nanodegree**
+**Deploy Static Website on AWS** <br>
+**Author**: Mohamed Abdellatif Elbahrawy <br>
+**Udacity DevOps Engineer Nanodegree** <br>
 
 CloudFront Endpoint:
 https://d1v52of5lzov33.cloudfront.net
