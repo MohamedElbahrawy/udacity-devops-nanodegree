@@ -4,8 +4,8 @@
 **Udacity DevOps Engineer Nanodegree** <br>
 
 CloudFront Endpoint:
-https://d1v52of5lzov33.cloudfront.net
-https://d1v52of5lzov33.cloudfront.net/index.html
+https://d1v52of5lzov33.cloudfront.net <br>
+https://d1v52of5lzov33.cloudfront.net/index.html <br>
 
 ***Steps***:
 1 - Create S3 Bucket on AWS and upload website files: <br>
